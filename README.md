@@ -1,4 +1,4 @@
-![](final3png.png =250x250)
+![](final3png.png| width=100)
 
 # Welcome to the Barriers in NLP github Page
 This repo is intended as the main entry point to the survey on barriers in NLP.
