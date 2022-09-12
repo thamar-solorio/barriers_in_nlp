@@ -21,7 +21,7 @@ If none of the small list of languages in here is appropriate, you can answer th
 # Links to surveys in the following languages:
 
 <p align="center">
-<img src="question.png" align="right" height="150" width="150" class="center">
+<img src="multilang.png" align="right" height="150" width="150" class="center">
 </p>
 
 * Arabic
