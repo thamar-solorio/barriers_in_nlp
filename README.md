@@ -40,7 +40,7 @@ If none of the small list of languages in here is appropriate, you can answer th
               
 
 <p align="center">
-    Thank you! Send us an email to  so we can give you access to the MS Form 
+    Thank you! Send us an email to barriers-in-nlp@googlegroups.com so we can give you access to the MS Form 
 </p>
 
 # Who's is organizing this and will have access to the survey data?
@@ -50,4 +50,6 @@ If none of the small list of languages in here is appropriate, you can answer th
 * [Ted Pedersen](https://www.d.umn.edu/~tpederse/)
 * [Thamar Solorio](tsolorio.uh.edu)
    
+* This research study has been approved by the University of Houston Institutional Review Board 713-743-9204. *
+
 
