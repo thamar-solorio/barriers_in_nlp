@@ -50,6 +50,6 @@ If none of the small list of languages in here is appropriate, you can answer th
 * [Ted Pedersen](https://www.d.umn.edu/~tpederse/)
 * [Thamar Solorio](tsolorio.uh.edu)
    
-* This research study has been approved by the University of Houston Institutional Review Board 713-743-9204. *
+*This research study has been approved by the University of Houston Institutional Review Board 713-743-9204.*
 
 
