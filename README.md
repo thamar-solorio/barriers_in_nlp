@@ -40,7 +40,7 @@ If none of the small list of languages in here is appropriate, you can answer th
               
 
 <p align="center">
-    Thank you! Send us an email to **barriers-in-nlp@googlegroups.com** so we can give you access to the MS Form 
+    Thank you! Send us an email to barriers-in-nlp@googlegroups.com so we can give you access to the MS Form 
 </p>
 
 # Who's is organizing this and will have access to the survey data?
