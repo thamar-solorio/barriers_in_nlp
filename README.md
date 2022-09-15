@@ -28,7 +28,7 @@ If none of the small list of languages in here is appropriate, you can answer th
 </p>
 
 * Arabic
-* [Bangla](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=77d7753dc0e142d8aad2c26f3ae1672e&id=vboLF_CikEytSw6PDwxCWemzwJvCZ35BqxNNwxlrCkZUMkdIU0pPTFRJTkwxTEQ1UzVSOTdUSEpSQS4u&branchingelementid=r44e9894a591f4f26ad6053bad7516576)
+* [Bangla](https://forms.office.com/r/KBXwqmH58L)
 * [English](https://forms.office.com/r/VqzvpwzfFz)
 * Chinese
 * Spanish
