@@ -27,11 +27,10 @@ If none of the small list of languages in here is appropriate, you can answer th
 <img src="multlang.png" align="right" height="150" width="150" class="center">
 </p>
 
-* Arabic
 * [Bangla](https://forms.office.com/r/KBXwqmH58L)
 * [English](https://forms.office.com/r/VqzvpwzfFz)
-* Chinese
-* Spanish
+* [Chinese](https://forms.office.com/r/83GZ0ZBi0V)
+* [Spanish](https://forms.office.com/r/7v3NQW6Cxm)
 
 # Do you want to help us increase coverage of languages? 
 <p align="center">
