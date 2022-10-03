@@ -28,8 +28,8 @@ If none of the small list of languages in here is appropriate, you can answer th
 </p>
 
 * [Bangla](https://forms.office.com/r/KBXwqmH58L)
-* [English](https://forms.office.com/r/VqzvpwzfFz)
 * [Chinese](https://forms.office.com/r/83GZ0ZBi0V)
+* [English](https://forms.office.com/r/VqzvpwzfFz)
 * [Spanish](https://forms.office.com/r/7v3NQW6Cxm)
 
 # Do you want to help us increase coverage of languages? 
